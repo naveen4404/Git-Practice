@@ -10,3 +10,7 @@ adding file to commit history : '''git commit -m "commit message"'''
 connecting remote repository : "git remote add origin REPO_URL"
 
 pushing into the remote repo : "git push origin BRANCH_NAME"
+
+to look difference b/w edited and already commited : "git diff"
+
+if the edits are staged : "git diff staged"
