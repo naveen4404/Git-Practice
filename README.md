@@ -20,3 +20,11 @@ creating new branch : "git checkout -b BRANCH_NAME"
 creating branch using switch : "git switch -c BRANCH_NAME"
 
 deleting a branch : "git branch -b BRANCH_NAME"
+
+tags :
+
+    tags in git are used to track versions. They are just like versions in realworld scenario.
+
+    creating tag : "git tag -a v1.0"
+
+    push tag : "git push origin v1.0"
