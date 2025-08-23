@@ -14,3 +14,9 @@ pushing into the remote repo : "git push origin BRANCH_NAME"
 to look difference b/w edited and already commited : "git diff"
 
 if the edits are staged : "git diff staged"
+
+creating new branch : "git checkout -b BRANCH_NAME"
+
+creating branch using switch : "git switch -c BRANCH_NAME"
+
+deleting a branch : "git branch -b BRANCH_NAME"
