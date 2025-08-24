@@ -86,4 +86,6 @@ Git stash :
 
     - so that we can work on other with out effecting this.
 
-    - to get stashed changes back we use "git stash apply STASH-CODE"
+    - to get stashed changes back we use "git stash apply".
+
+    - to view stash list "git stash list".
