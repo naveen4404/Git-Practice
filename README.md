@@ -28,3 +28,7 @@ tags :
     creating tag : "git tag -a v1.0"
 
     push tag : "git push origin v1.0"
+
+merging branches :
+
+    git merge BRANCH_NAME   (make sure that you are on the main branch)
