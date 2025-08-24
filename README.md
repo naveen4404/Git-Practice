@@ -32,3 +32,13 @@ tags :
 merging branches :
 
     git merge BRANCH_NAME   (make sure that you are on the main branch)
+
+rebase :
+
+    git rebase BRANCH_NAME
+
+    - difference between rebase and merge : both the commands merges the branches . But the implementation is different.
+
+    - rebase merges the branches on the same path of the main, whereas merge command merges the branch to main coming from other path.
+
+    - Both commands perform same operation but the graph visualization and implemtation is different.
