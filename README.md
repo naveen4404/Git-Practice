@@ -1,4 +1,4 @@
-Used to practice git.
+
 
 configuration :
 "git config --global user.name USER_NAME"
