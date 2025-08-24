@@ -89,3 +89,9 @@ Git stash :
     - to get stashed changes back we use "git stash apply".
 
     - to view stash list "git stash list".
+
+Git fork and pull request :
+
+    - forking is used to take other's repository into our repositories. so that we can make any changes to that repo and creates pull request.
+
+    - the repo owener will get a pull request, so that he can verify the changes and can accept the changes or reject the request.
