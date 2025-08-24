@@ -56,17 +56,21 @@ rebase :
 
     "git rebase BRANCH_NAME"
 
-    - difference between rebase and merge : both the commands merges the branches . But the implementation is different.
+    - difference between rebase and merge : both the commands merges the branches.
+      But the implementation is different.
 
-    - rebase merges the branches on the same path of the main, whereas merge command merges the branch to main coming from other path.
+    - rebase merges the branches on the same path of the main,
+      whereas merge command merges the branch to main coming from other path.
 
     - Both commands perform same operation but the graph visualization and implemtation is different.
 
 merge conflict :
 
-    - while merging two branches which had changes in the same line of the file, then git throws a merge conflict to the user.
+    - while merging two branches which had changes in the same line of the file,
+      then git throws a merge conflict to the user.
 
-    - user can able to select the lines which he wants to continue with. Thus the conflict can be solved.
+    - user can able to select the lines which he wants to continue with.
+      Thus the conflict can be solved.
 
 time travelling :
 
@@ -92,6 +96,8 @@ Git stash :
 
 Git fork and pull request :
 
-    - forking is used to take other's repository into our repositories. so that we can make any changes to that repo and creates pull request.
+    - forking is used to take other's repository into our repositories.
+      so that we can make any changes to that repo and creates pull request.
 
-    - the repo owener will get a pull request, so that he can verify the changes and can accept the changes or reject the request.
+    - the repo owener will get a pull request, so that he can verify the changes
+      and can accept the changes or reject the request.
