@@ -15,6 +15,8 @@ to look difference b/w edited and already commited : "git diff"
 
 if the edits are staged : "git diff staged"
 
+to remove stagged file : "git rm --cached FILE_NAME"
+
 creating new branch : "git checkout -b BRANCH_NAME"
 
 creating branch using switch : "git switch -c BRANCH_NAME"
